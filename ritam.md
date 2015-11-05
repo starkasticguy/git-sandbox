@@ -1,3 +1,5 @@
-KOSS, first git meeting.
+**My name is Ritam Dutt**
+*I am a second year student*
+[Celebi](www.serebii.net)
+"Lol"
 
-I am updating this file to check PR.
