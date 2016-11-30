@@ -1,6 +1,0 @@
-This is my file finally setting proxy is tedious 
-type this first
- git config --global http.proxy http://10.3.100.207:8080 
- git config --global https.proxy https://10.3.100.207:8080 
-
- aditya_jain[jain4aditya](https://github.com/jain14aditya)
