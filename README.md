@@ -3,7 +3,9 @@ A Repository for learning and practicing git
 
 Add your Name, Github username and Email-ID
 
-`Name` (`[Username](https://github.com/username)`) | `Email-ID`
+Aditya Rathore ([arowdy98](https://github.com/arowdy98)) | arathore98@gmail.com
+
+
 
 Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
