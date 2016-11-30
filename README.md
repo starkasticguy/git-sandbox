@@ -9,3 +9,5 @@ Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
 Himanshu Mishra ([orkohunter](https://github.com/orkohunter)) | himanshumishra@iitkgp.ac.in
 
+Kaustubh Maloo ([kaus19](https://github.com/kaus19)) | kaustubh.maloo@gmail.com
+
