@@ -9,3 +9,4 @@ Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
 Himanshu Mishra ([orkohunter](https://github.com/orkohunter)) | himanshumishra@iitkgp.ac.in
 
+Krishna Preetish Reddy ([coffeelover12111997](https://github.com/coffeelover12111997))|pkrishnapritish@gmail.com
