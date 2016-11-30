@@ -15,3 +15,4 @@ Yash Agrawal ([yashagrawal9](https://github.com/yashagrawal9))
 
 Pranit Bauva ([pranitbauva1997](https://github.com/pranitbauva1997)) | pranit@bauva.com
 
+Krishna Preetish Reddy ([coffeelover12111997](https://github.com/coffeelover12111997))|pkrishnapritish@gmail.com
