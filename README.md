@@ -15,3 +15,6 @@ Pranit Bauva ([pranitbauva1997](https://github.com/pranitbauva1997)) | pranit@ba
 Krishna Preetish Reddy ([coffeelover12111997](https://github.com/coffeelover12111997))|pkrishnapritish@gmail.com
 
 Abinash Senapati ([abinashgeek](https://github.com/abinashgeek)) | abinashsena@gmail.com
+
+Apoorva Kumar([rava-dosa](https://github.com/rava-dosa)) | apoorvakumar169@gmail.com
+
