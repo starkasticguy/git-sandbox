@@ -18,3 +18,5 @@ Abinash Senapati ([abinashgeek](https://github.com/abinashgeek)) | abinashsena@g
 
 Apoorva Kumar([rava-dosa](https://github.com/rava-dosa)) | apoorvakumar169@gmail.com
 
+Mandar Kakade ([MandarMK](https://github.com/MandarMK)) | mandaravikakade@gmail.com
+
