@@ -22,3 +22,5 @@ Mandar Kakade ([MandarMK](https://github.com/MandarMK)) | mandaravikakade@gmail.
 
 Md Danish Imam([bc206](https://github.com/bc206)) | md.i.imam3495t@gmail.com
 
+Kaustubh Maloo ([kaus19](https://github.com/kaus19)) |  kaustubh.maloo@iitkgp.ac.in
+
